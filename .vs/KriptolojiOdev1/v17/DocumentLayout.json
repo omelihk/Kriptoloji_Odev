@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|c:\\users\\emre\\desktop\\vsprojects\\kriptolojiodev1\\kriptolojiodev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|solutionrelative:kriptolojiodev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\kriptolojiodev1\\mailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|solutionrelative:kriptolojiodev1\\mailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\kriptolojiodev1\\mailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|solutionrelative:kriptolojiodev1\\mailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\kriptolojiodev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|solutionrelative:kriptolojiodev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\kriptolojiodev1\\mat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64BB48C-15AE-4102-9AAE-76CE33196AC5}|KriptolojiOdev1\\KriptolojiOdev1.csproj|solutionrelative:kriptolojiodev1\\mat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mat.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\Mat.cs",
+              "RelativeDocumentMoniker": "KriptolojiOdev1\\Mat.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\Mat.cs",
+              "RelativeToolTip": "KriptolojiOdev1\\Mat.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAA5wI0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:42:34.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailForm.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\MailForm.cs",
+              "RelativeDocumentMoniker": "KriptolojiOdev1\\MailForm.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\MailForm.cs",
+              "RelativeToolTip": "KriptolojiOdev1\\MailForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T14:31:32.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\Form1.cs",
+              "RelativeDocumentMoniker": "KriptolojiOdev1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\Form1.cs",
+              "RelativeToolTip": "KriptolojiOdev1\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAawFAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T19:29:31.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\Form1.cs",
+              "RelativeDocumentMoniker": "KriptolojiOdev1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KriptolojiOdev1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T19:03:37.232Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\MailForm.cs",
+              "RelativeDocumentMoniker": "KriptolojiOdev1\\MailForm.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\VSProjects\\KriptolojiOdev1\\KriptolojiOdev1\\MailForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KriptolojiOdev1\\MailForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T14:23:26.493Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
