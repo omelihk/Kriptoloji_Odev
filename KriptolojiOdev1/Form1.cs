@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -92,18 +92,26 @@ namespace KriptolojiOdev1
                     string dosyayolu = Path.Combine(Path.GetTempPath(), "sonuc.txt");
                     File.WriteAllText(dosyayolu, sonucBox.Text, Encoding.UTF8);
 
-                    SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
-                    smtp.Credentials = new NetworkCredential(mailForm.Gonderen, mailForm.AppSifre);
-                    smtp.EnableSsl = true;
+                    using (SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587))
+                    {
+                        smtp.Credentials = new NetworkCredential(mailForm.Gonderen, mailForm.AppSifre);
+                        smtp.EnableSsl = true;
 
-                    MailMessage mesaj = new MailMessage();
-                    mesaj.From = new MailAddress(mailForm.Gonderen);
-                    mesaj.To.Add(mailForm.Alici);
-                    mesaj.Subject = "Kriptoloji Sonucu";
-                    mesaj.Body = "Şifreleme sonucu ekteki metin dosyasında yer almaktadır.";
-                    mesaj.Attachments.Add(new Attachment(dosyayolu));
+                        using (MailMessage mesaj = new MailMessage())
+                        {
+                            mesaj.From = new MailAddress(mailForm.Gonderen);
+                            mesaj.To.Add(mailForm.Alici);
+                            mesaj.Subject = "Kriptoloji Sonucu";
+                            mesaj.Body = "Şifreleme sonucu ekteki metin dosyasında yer almaktadır.";
 
-                    smtp.Send(mesaj);
+                            using (Attachment ek = new Attachment(dosyayolu))
+                            {
+                                mesaj.Attachments.Add(ek);
+                                smtp.Send(mesaj);
+                            }
+                        }
+                    }
+
                     MessageBox.Show("E-posta başarıyla gönderildi!", "Başarılı",
                         MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
